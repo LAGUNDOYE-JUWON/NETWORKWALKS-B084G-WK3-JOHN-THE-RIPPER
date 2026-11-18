@@ -1,12 +1,12 @@
 # NETWORKWALKS-B084G-WK3-JOHN-THE-RIPPER
-cracking passowrds using hash text and passoword cracker
+cracking passwords using hash text and password cracker
 #  Password & Hash Cracking
 
 Weekly cybersecurity training project. This week covered offline password cracking against a locked PDF and a hash-cracking exercise using a dedicated web tool.
 
 ## Tools Used
 - **John the Ripper** (`john`) + **Johnny** (GUI front-end)
-- **pdf Hash Extractor** (to extract a crackable hash from the PDF)
+- **pdf2john** (to extract a crackable hash from the PDF)
 - **NetworkWalks Hash Caculator & Password Cracker**
 
 ---
